@@ -1,0 +1,10 @@
+{
+    "location1": {
+	    "lat": 1,
+		"lon": 2
+	},
+	"location2": {
+	    "lat": 2,
+		"lon": 2
+	}
+}
